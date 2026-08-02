@@ -1,9 +1,17 @@
-# Data&#39;s Craftable Name Tags
+# Datas-Craftable-Name-Tags
+Adds a new recipe to allow you to craft name tags.
+# Recipe
+G = Gold ingot
 
-## Setup
+L = Leather
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+G,L,L
 
-## License
+# Requirements
+Fabric API
+Fabric Loader
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# Important
+License MIT
+
+Yes you may use this mod in any and all modpacks
