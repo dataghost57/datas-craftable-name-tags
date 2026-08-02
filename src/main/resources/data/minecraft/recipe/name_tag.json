@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "=##"
+  ],
+  "key": {
+    "=": "minecraft:gold_ingot",
+    "#": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:name_tag"
+  }
+}
